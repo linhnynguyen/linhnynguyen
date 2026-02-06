@@ -22,7 +22,3 @@ I'm a Computer Science student (L2) at **Gustave Eiffel University** (France), c
 
 ---
 
-### 📊 My Stats
-
-![Linhny's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhnynguyen&show_icons=true&theme=radical)
-
